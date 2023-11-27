@@ -1,0 +1,6626 @@
+[
+ {
+   "Age": null,
+   "Fav genre": "Hip hop",
+   "Anxiety": 9,
+   "Depression": "3",
+   "Insomnia": 2,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 10,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 12,
+   "Fav genre": "Classical",
+   "Anxiety": 7,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 12,
+   "Fav genre": "Classical",
+   "Anxiety": 8,
+   "Depression": "0",
+   "Insomnia": 1,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 12,
+   "Fav genre": "Classical",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 13,
+   "Fav genre": "Classical",
+   "Anxiety": 8,
+   "Depression": "5",
+   "Insomnia": 10,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 13,
+   "Fav genre": "Classical",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 9,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 13,
+   "Fav genre": "Folk",
+   "Anxiety": 8,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 13,
+   "Fav genre": "Rap",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 13,
+   "Fav genre": "Rap",
+   "Anxiety": 4,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 13,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "10",
+   "Insomnia": 5,
+   "OCD": 6,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 13,
+   "Fav genre": "Video game music",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 8,
+   "OCD": 4,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 13,
+   "Fav genre": "Video game music",
+   "Anxiety": 4,
+   "Depression": "3",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Classical",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 3,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Classical",
+   "Anxiety": 6,
+   "Depression": "8",
+   "Insomnia": 8,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Classical",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 2,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Classical",
+   "Anxiety": 1,
+   "Depression": "2",
+   "Insomnia": 4,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Country",
+   "Anxiety": 7,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Jazz",
+   "Anxiety": 2,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "K pop",
+   "Anxiety": 4,
+   "Depression": "4",
+   "Insomnia": 2,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Lofi",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "6",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "R&B",
+   "Anxiety": 10,
+   "Depression": "8",
+   "Insomnia": 9,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 10,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 2,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "6",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Video game music",
+   "Anxiety": 5,
+   "Depression": "2",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Video game music",
+   "Anxiety": 4,
+   "Depression": "0",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 14,
+   "Fav genre": "Video game music",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 5,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Classical",
+   "Anxiety": 9,
+   "Depression": "6",
+   "Insomnia": 8,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "EDM",
+   "Anxiety": 9,
+   "Depression": "6",
+   "Insomnia": 1,
+   "OCD": 7,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Folk",
+   "Anxiety": 6,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Hip hop",
+   "Anxiety": 6,
+   "Depression": "9",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Hip hop",
+   "Anxiety": 7,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "K pop",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 7,
+   "OCD": 10,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "K pop",
+   "Anxiety": 4,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Metal",
+   "Anxiety": 6,
+   "Depression": "7",
+   "Insomnia": 8,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Metal",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 3,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Pop",
+   "Anxiety": 9,
+   "Depression": "8",
+   "Insomnia": 10,
+   "OCD": 9,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Pop",
+   "Anxiety": 3,
+   "Depression": "5",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Rap",
+   "Anxiety": 4,
+   "Depression": "0",
+   "Insomnia": 6,
+   "OCD": 5,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "6",
+   "Insomnia": 0,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Rock",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 6,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "3",
+   "Insomnia": 5,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Rock",
+   "Anxiety": 4,
+   "Depression": "3",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Video game music",
+   "Anxiety": 6,
+   "Depression": "6",
+   "Insomnia": 2,
+   "OCD": 6,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 15,
+   "Fav genre": "Video game music",
+   "Anxiety": 4,
+   "Depression": "2",
+   "Insomnia": 3,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Classical",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 1,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Classical",
+   "Anxiety": 9,
+   "Depression": "7",
+   "Insomnia": 10,
+   "OCD": 6,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Classical",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Classical",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "EDM",
+   "Anxiety": 7,
+   "Depression": "4",
+   "Insomnia": 6,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "EDM",
+   "Anxiety": 4,
+   "Depression": "7",
+   "Insomnia": 1,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "EDM",
+   "Anxiety": 4,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "EDM",
+   "Anxiety": 10,
+   "Depression": "9",
+   "Insomnia": 3,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "EDM",
+   "Anxiety": 8,
+   "Depression": "10",
+   "Insomnia": 9,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Folk",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Hip hop",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 4,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Hip hop",
+   "Anxiety": 5,
+   "Depression": "7",
+   "Insomnia": 10,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Jazz",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 8,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "K pop",
+   "Anxiety": 8,
+   "Depression": "9",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "K pop",
+   "Anxiety": 7,
+   "Depression": "8",
+   "Insomnia": 7,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "K pop",
+   "Anxiety": 10,
+   "Depression": "2",
+   "Insomnia": 7,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "K pop",
+   "Anxiety": 2,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Lofi",
+   "Anxiety": 7,
+   "Depression": "1",
+   "Insomnia": 3,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Metal",
+   "Anxiety": 5,
+   "Depression": "3",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Metal",
+   "Anxiety": 7,
+   "Depression": "4",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Metal",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 10,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Pop",
+   "Anxiety": 10,
+   "Depression": "05.m�rc",
+   "Insomnia": 5,
+   "OCD": 10,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 5,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Pop",
+   "Anxiety": null,
+   "Depression": "5",
+   "Insomnia": 7,
+   "OCD": null,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Pop",
+   "Anxiety": 3,
+   "Depression": "4",
+   "Insomnia": 6,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Pop",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 6,
+   "OCD": 10,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Pop",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Rap",
+   "Anxiety": 1,
+   "Depression": "8",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "6",
+   "Insomnia": 8,
+   "OCD": 10,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "8",
+   "Insomnia": 1,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "1",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "4",
+   "Insomnia": 10,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "1",
+   "Insomnia": 9,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Rock",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 6,
+   "OCD": 9,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Rock",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "05.m�rc",
+   "Insomnia": null,
+   "OCD": null,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "9",
+   "Insomnia": 5,
+   "OCD": 10,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "7",
+   "Insomnia": 1,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Video game music",
+   "Anxiety": 4,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Video game music",
+   "Anxiety": 4,
+   "Depression": "8",
+   "Insomnia": 8,
+   "OCD": 4,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 16,
+   "Fav genre": "Video game music",
+   "Anxiety": 6,
+   "Depression": "2",
+   "Insomnia": 4,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Classical",
+   "Anxiety": 6,
+   "Depression": "6",
+   "Insomnia": 8,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Classical",
+   "Anxiety": 7,
+   "Depression": "9",
+   "Insomnia": 2,
+   "OCD": 8,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Classical",
+   "Anxiety": 7,
+   "Depression": "8",
+   "Insomnia": 2,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Classical",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 1,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Classical",
+   "Anxiety": 4,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Country",
+   "Anxiety": 8,
+   "Depression": "5",
+   "Insomnia": 2,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Country",
+   "Anxiety": 2,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "EDM",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Folk",
+   "Anxiety": 7,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Folk",
+   "Anxiety": 9,
+   "Depression": "4",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Hip hop",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 4,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Hip hop",
+   "Anxiety": 8,
+   "Depression": "9",
+   "Insomnia": 3,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Hip hop",
+   "Anxiety": 7,
+   "Depression": "0",
+   "Insomnia": 2,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Hip hop",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 5,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Jazz",
+   "Anxiety": 5,
+   "Depression": "2",
+   "Insomnia": 3,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "K pop",
+   "Anxiety": 10,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Latin",
+   "Anxiety": 0,
+   "Depression": "3",
+   "Insomnia": 9,
+   "OCD": 5,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Lofi",
+   "Anxiety": 3,
+   "Depression": "8",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Metal",
+   "Anxiety": 10,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 7,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Metal",
+   "Anxiety": 4,
+   "Depression": "1",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Metal",
+   "Anxiety": 5,
+   "Depression": "6",
+   "Insomnia": 9,
+   "OCD": 9,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Metal",
+   "Anxiety": 4,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Metal",
+   "Anxiety": 9,
+   "Depression": "8",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Metal",
+   "Anxiety": 8,
+   "Depression": "3",
+   "Insomnia": 9,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "10",
+   "Insomnia": 9,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "2",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 9,
+   "Depression": "8",
+   "Insomnia": 4,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 2,
+   "Depression": "0",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 4,
+   "OCD": 1,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "6",
+   "Insomnia": 4,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 5,
+   "Depression": "3",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 5,
+   "Depression": "4",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 0,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 1,
+   "Depression": "1",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 5,
+   "Depression": "5",
+   "Insomnia": 5,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 5,
+   "Depression": "2",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Pop",
+   "Anxiety": 5,
+   "Depression": "2",
+   "Insomnia": 4,
+   "OCD": 7,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "R&B",
+   "Anxiety": 6,
+   "Depression": "1",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "R&B",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 10,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "R&B",
+   "Anxiety": 9,
+   "Depression": "10",
+   "Insomnia": 10,
+   "OCD": 3,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "R&B",
+   "Anxiety": 3,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rap",
+   "Anxiety": 3,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rap",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 0,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rap",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 2,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "6",
+   "Insomnia": 6,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rock",
+   "Anxiety": 0,
+   "Depression": "8",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 3,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rock",
+   "Anxiety": 1,
+   "Depression": "5",
+   "Insomnia": 6,
+   "OCD": 4,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "3",
+   "Insomnia": 9,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 0,
+   "OCD": 9,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "3",
+   "Insomnia": 6,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "10",
+   "Insomnia": 2,
+   "OCD": 7,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Video game music",
+   "Anxiety": 6,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 17,
+   "Fav genre": "Video game music",
+   "Anxiety": 10,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Classical",
+   "Anxiety": 2,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 5,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Classical",
+   "Anxiety": 7,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Country",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 4,
+   "OCD": 7,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "EDM",
+   "Anxiety": 9,
+   "Depression": "8",
+   "Insomnia": 5,
+   "OCD": 10,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "EDM",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 10,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "EDM",
+   "Anxiety": 0,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "EDM",
+   "Anxiety": 9,
+   "Depression": "0",
+   "Insomnia": 5,
+   "OCD": 10,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "EDM",
+   "Anxiety": 10,
+   "Depression": "9",
+   "Insomnia": 9,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "EDM",
+   "Anxiety": 5,
+   "Depression": "5",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Folk",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Folk",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Gospel",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 2,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Hip hop",
+   "Anxiety": 3,
+   "Depression": "7",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Hip hop",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Hip hop",
+   "Anxiety": 5,
+   "Depression": "4",
+   "Insomnia": 3,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Hip hop",
+   "Anxiety": 3,
+   "Depression": "1",
+   "Insomnia": 0,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Hip hop",
+   "Anxiety": 2,
+   "Depression": "7",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Jazz",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 7,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Jazz",
+   "Anxiety": 6,
+   "Depression": "4",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Jazz",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 5,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "K pop",
+   "Anxiety": 0,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": ""
+ },
+ {
+   "Age": 18,
+   "Fav genre": "K pop",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 3,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "K pop",
+   "Anxiety": 6,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "K pop",
+   "Anxiety": 7,
+   "Depression": "4",
+   "Insomnia": 5,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "K pop",
+   "Anxiety": 8,
+   "Depression": "4",
+   "Insomnia": 7,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "K pop",
+   "Anxiety": 5,
+   "Depression": "1",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "K pop",
+   "Anxiety": 3,
+   "Depression": "7",
+   "Insomnia": 5,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Latin",
+   "Anxiety": 10,
+   "Depression": "6",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Latin",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": ""
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Metal",
+   "Anxiety": 5,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Metal",
+   "Anxiety": 7,
+   "Depression": "8",
+   "Insomnia": 4,
+   "OCD": 10,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Metal",
+   "Anxiety": 1,
+   "Depression": "0",
+   "Insomnia": 8,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Metal",
+   "Anxiety": 7,
+   "Depression": "9",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Metal",
+   "Anxiety": 3,
+   "Depression": "4",
+   "Insomnia": 6,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Metal",
+   "Anxiety": 6,
+   "Depression": "9",
+   "Insomnia": 9,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Metal",
+   "Anxiety": 9,
+   "Depression": "6",
+   "Insomnia": 8,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "5",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "5",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 3,
+   "Depression": "3",
+   "Insomnia": 8,
+   "OCD": 6,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "4",
+   "Insomnia": 2,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 4,
+   "Depression": "5",
+   "Insomnia": 6,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 5,
+   "Depression": "7",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 5,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 5,
+   "Depression": "4",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "1",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "R&B",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 5,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "R&B",
+   "Anxiety": 2,
+   "Depression": "2",
+   "Insomnia": 5,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "R&B",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 5,
+   "OCD": 9,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "R&B",
+   "Anxiety": 5,
+   "Depression": "6",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "R&B",
+   "Anxiety": 2,
+   "Depression": "4",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "R&B",
+   "Anxiety": 3,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "R&B",
+   "Anxiety": 6,
+   "Depression": "4",
+   "Insomnia": 1,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "R&B",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 3,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "R&B",
+   "Anxiety": 2,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "R&B",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 2,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "R&B",
+   "Anxiety": 8,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rap",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rap",
+   "Anxiety": 2,
+   "Depression": "0",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rap",
+   "Anxiety": 8,
+   "Depression": "9",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rap",
+   "Anxiety": 6,
+   "Depression": "3",
+   "Insomnia": 4,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rap",
+   "Anxiety": 5,
+   "Depression": "8",
+   "Insomnia": 7,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 2,
+   "OCD": 10,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "7",
+   "Insomnia": 4,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 8,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "9",
+   "Insomnia": 6,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "4",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "1",
+   "Insomnia": 6,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "6",
+   "Insomnia": 8,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 6,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Video game music",
+   "Anxiety": 4,
+   "Depression": "5",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Video game music",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 10,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Video game music",
+   "Anxiety": 8,
+   "Depression": "3",
+   "Insomnia": 8,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Video game music",
+   "Anxiety": 7,
+   "Depression": "0",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Video game music",
+   "Anxiety": 6,
+   "Depression": "5",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 18,
+   "Fav genre": "Video game music",
+   "Anxiety": 4,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Classical",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Classical",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Classical",
+   "Anxiety": 4,
+   "Depression": "4",
+   "Insomnia": 4,
+   "OCD": 3,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Classical",
+   "Anxiety": 3,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Classical",
+   "Anxiety": 2,
+   "Depression": "3",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Country",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 6,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Country",
+   "Anxiety": 2,
+   "Depression": "1",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Country",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 7,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Country",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 8,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "EDM",
+   "Anxiety": 0,
+   "Depression": "1",
+   "Insomnia": 3,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "EDM",
+   "Anxiety": 6,
+   "Depression": "8",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "EDM",
+   "Anxiety": 1,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Hip hop",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Hip hop",
+   "Anxiety": 3,
+   "Depression": "8",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Jazz",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "K pop",
+   "Anxiety": 4,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "K pop",
+   "Anxiety": 8,
+   "Depression": "9",
+   "Insomnia": 6,
+   "OCD": 0,
+   "Music effects": ""
+ },
+ {
+   "Age": 19,
+   "Fav genre": "K pop",
+   "Anxiety": 6,
+   "Depression": "0",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "K pop",
+   "Anxiety": 4,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "K pop",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 5,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "K pop",
+   "Anxiety": 10,
+   "Depression": "1",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Metal",
+   "Anxiety": 9,
+   "Depression": "8",
+   "Insomnia": 2,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Metal",
+   "Anxiety": 4,
+   "Depression": "1",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Metal",
+   "Anxiety": 6,
+   "Depression": "4",
+   "Insomnia": 0,
+   "OCD": 3,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Metal",
+   "Anxiety": 1,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Metal",
+   "Anxiety": 2,
+   "Depression": "3",
+   "Insomnia": 5,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Metal",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Metal",
+   "Anxiety": 0,
+   "Depression": "5",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "6",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "4",
+   "Insomnia": 2,
+   "OCD": 4,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 1,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Pop",
+   "Anxiety": 1,
+   "Depression": "1",
+   "Insomnia": 2,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Pop",
+   "Anxiety": 9,
+   "Depression": "6",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Pop",
+   "Anxiety": 5,
+   "Depression": "9",
+   "Insomnia": 1,
+   "OCD": 7,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Pop",
+   "Anxiety": 9,
+   "Depression": "1",
+   "Insomnia": 0,
+   "OCD": 9,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Pop",
+   "Anxiety": 10,
+   "Depression": "8",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "6",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "10",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "R&B",
+   "Anxiety": 6,
+   "Depression": "7",
+   "Insomnia": 5,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "R&B",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "R&B",
+   "Anxiety": 5,
+   "Depression": "4",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "R&B",
+   "Anxiety": 4,
+   "Depression": "2",
+   "Insomnia": 5,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rap",
+   "Anxiety": 2,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rap",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 3,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rap",
+   "Anxiety": 3,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "2",
+   "Insomnia": 8,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "8",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "9",
+   "Insomnia": 9,
+   "OCD": 3,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "10",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rock",
+   "Anxiety": 4,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rock",
+   "Anxiety": 4,
+   "Depression": "0",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Video game music",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 19,
+   "Fav genre": "Video game music",
+   "Anxiety": 8,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Classical",
+   "Anxiety": 2,
+   "Depression": "3",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Country",
+   "Anxiety": 8,
+   "Depression": "9",
+   "Insomnia": 2,
+   "OCD": 5,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Country",
+   "Anxiety": 8,
+   "Depression": "4",
+   "Insomnia": 3,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Country",
+   "Anxiety": 0,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "EDM",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 8,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "EDM",
+   "Anxiety": 0,
+   "Depression": "3",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "EDM",
+   "Anxiety": 9,
+   "Depression": "7",
+   "Insomnia": 5,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "EDM",
+   "Anxiety": 5,
+   "Depression": "9",
+   "Insomnia": 6,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Hip hop",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Hip hop",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 4,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Jazz",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 7,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "K pop",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Metal",
+   "Anxiety": 7,
+   "Depression": "4",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Metal",
+   "Anxiety": 8,
+   "Depression": "9",
+   "Insomnia": 6,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Metal",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Metal",
+   "Anxiety": 5,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "4",
+   "Insomnia": 6,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Pop",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Pop",
+   "Anxiety": 3,
+   "Depression": "5",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 9,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "9",
+   "Insomnia": 6,
+   "OCD": 5,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "R&B",
+   "Anxiety": 9,
+   "Depression": "10",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "R&B",
+   "Anxiety": 4,
+   "Depression": "1",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "R&B",
+   "Anxiety": 10,
+   "Depression": "6",
+   "Insomnia": 3,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Rap",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 1,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "10",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "2",
+   "Insomnia": 6,
+   "OCD": 7,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "6",
+   "Insomnia": 8,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 7,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "5",
+   "Insomnia": 2,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "9",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "4",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 20,
+   "Fav genre": "Video game music",
+   "Anxiety": 8,
+   "Depression": "4",
+   "Insomnia": 3,
+   "OCD": 3,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Classical",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Classical",
+   "Anxiety": 4,
+   "Depression": "6",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Country",
+   "Anxiety": 0,
+   "Depression": "8",
+   "Insomnia": 0,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Country",
+   "Anxiety": 6,
+   "Depression": "5",
+   "Insomnia": 5,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Country",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Country",
+   "Anxiety": 9,
+   "Depression": "8",
+   "Insomnia": 9,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "EDM",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 5,
+   "OCD": 7,
+   "Music effects": ""
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Folk",
+   "Anxiety": 3,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": ""
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Folk",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Folk",
+   "Anxiety": 9,
+   "Depression": "4",
+   "Insomnia": 0,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Folk",
+   "Anxiety": 8,
+   "Depression": "4",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Hip hop",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 3,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "K pop",
+   "Anxiety": 5,
+   "Depression": "3",
+   "Insomnia": 5,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "K pop",
+   "Anxiety": 4,
+   "Depression": "5",
+   "Insomnia": 2,
+   "OCD": 5,
+   "Music effects": ""
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Lofi",
+   "Anxiety": 6,
+   "Depression": "5",
+   "Insomnia": 9,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Metal",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Metal",
+   "Anxiety": 1,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 6,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Metal",
+   "Anxiety": 3,
+   "Depression": "3",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Metal",
+   "Anxiety": 9,
+   "Depression": "10",
+   "Insomnia": 2,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Metal",
+   "Anxiety": 10,
+   "Depression": "6",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Metal",
+   "Anxiety": 5,
+   "Depression": "6",
+   "Insomnia": 6,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Metal",
+   "Anxiety": 3,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Metal",
+   "Anxiety": 8,
+   "Depression": "4",
+   "Insomnia": 10,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Metal",
+   "Anxiety": 10,
+   "Depression": "0",
+   "Insomnia": 10,
+   "OCD": 10,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Pop",
+   "Anxiety": 9,
+   "Depression": "7",
+   "Insomnia": 5,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Pop",
+   "Anxiety": 10,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 10,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "8",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 0,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Pop",
+   "Anxiety": 4,
+   "Depression": "9",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Pop",
+   "Anxiety": 5,
+   "Depression": "1",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Pop",
+   "Anxiety": 5,
+   "Depression": "6",
+   "Insomnia": 3,
+   "OCD": 4,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Pop",
+   "Anxiety": 4,
+   "Depression": "6",
+   "Insomnia": 3,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Pop",
+   "Anxiety": 5,
+   "Depression": "4",
+   "Insomnia": 10,
+   "OCD": 7,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Pop",
+   "Anxiety": 5,
+   "Depression": "3",
+   "Insomnia": 4,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "R&B",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "R&B",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 4,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Rap",
+   "Anxiety": 4,
+   "Depression": "3",
+   "Insomnia": 4,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Rap",
+   "Anxiety": 9,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "1",
+   "Insomnia": 1,
+   "OCD": 9,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "10",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "9",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "4",
+   "Insomnia": 6,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 6,
+   "OCD": 8,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "9",
+   "Insomnia": 1,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 2,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "10",
+   "Insomnia": 4,
+   "OCD": 7,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "5",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Rock",
+   "Anxiety": 4,
+   "Depression": "8",
+   "Insomnia": 2,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Video game music",
+   "Anxiety": 0,
+   "Depression": "6",
+   "Insomnia": 0,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 21,
+   "Fav genre": "Video game music",
+   "Anxiety": 2,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Classical",
+   "Anxiety": 8,
+   "Depression": "2",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Country",
+   "Anxiety": 4,
+   "Depression": "8",
+   "Insomnia": 2,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Country",
+   "Anxiety": 5,
+   "Depression": "5",
+   "Insomnia": 3,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "EDM",
+   "Anxiety": 2,
+   "Depression": "7",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "EDM",
+   "Anxiety": 4,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "EDM",
+   "Anxiety": 6,
+   "Depression": "4",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "EDM",
+   "Anxiety": 5,
+   "Depression": "4",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "EDM",
+   "Anxiety": 1,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Folk",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Folk",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Hip hop",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Hip hop",
+   "Anxiety": 6,
+   "Depression": "6",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Jazz",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 8,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Jazz",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 7,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "K pop",
+   "Anxiety": 7,
+   "Depression": "8",
+   "Insomnia": 5,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Lofi",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 7,
+   "OCD": 9,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Lofi",
+   "Anxiety": 9,
+   "Depression": "10",
+   "Insomnia": 6,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Metal",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Metal",
+   "Anxiety": 9,
+   "Depression": "6",
+   "Insomnia": 0,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Metal",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 8,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 10,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 4,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "4",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Pop",
+   "Anxiety": 2,
+   "Depression": "7",
+   "Insomnia": 1,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 8,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "R&B",
+   "Anxiety": 1,
+   "Depression": "1",
+   "Insomnia": 4,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 4,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "10",
+   "Insomnia": 3,
+   "OCD": 9,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "5",
+   "Insomnia": 2,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 4,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Video game music",
+   "Anxiety": 5,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Video game music",
+   "Anxiety": 4,
+   "Depression": "6",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Video game music",
+   "Anxiety": 3,
+   "Depression": "6",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Video game music",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 6,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 22,
+   "Fav genre": "Video game music",
+   "Anxiety": 3,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 7,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Classical",
+   "Anxiety": 6,
+   "Depression": "5",
+   "Insomnia": 6,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Classical",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Folk",
+   "Anxiety": 6,
+   "Depression": "4",
+   "Insomnia": 2,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Folk",
+   "Anxiety": 3,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 4,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Hip hop",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 7,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Hip hop",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 6,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Hip hop",
+   "Anxiety": 8,
+   "Depression": "10",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Jazz",
+   "Anxiety": 10,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 10,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Jazz",
+   "Anxiety": 9,
+   "Depression": "7",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Lofi",
+   "Anxiety": 7,
+   "Depression": "10",
+   "Insomnia": 10,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Metal",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Metal",
+   "Anxiety": 6,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Metal",
+   "Anxiety": 7,
+   "Depression": "3",
+   "Insomnia": 2,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Metal",
+   "Anxiety": 6,
+   "Depression": "9",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Metal",
+   "Anxiety": 7,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "1",
+   "Insomnia": 0,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Pop",
+   "Anxiety": 3,
+   "Depression": "7",
+   "Insomnia": 5,
+   "OCD": 5,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 4,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "R&B",
+   "Anxiety": 3,
+   "Depression": "10",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Rap",
+   "Anxiety": 10,
+   "Depression": "6",
+   "Insomnia": 3,
+   "OCD": 10,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Rap",
+   "Anxiety": 3,
+   "Depression": "1",
+   "Insomnia": 2,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 4,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "5",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "1",
+   "Insomnia": 8,
+   "OCD": 4,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "8",
+   "Insomnia": 5,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "8",
+   "Insomnia": 4,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 10,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Rock",
+   "Anxiety": 1,
+   "Depression": "0",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Rock",
+   "Anxiety": 0,
+   "Depression": "5",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 1,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "7",
+   "Insomnia": 10,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Video game music",
+   "Anxiety": 7,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Video game music",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Video game music",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 3,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Video game music",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 3,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Video game music",
+   "Anxiety": 10,
+   "Depression": "8",
+   "Insomnia": 10,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 23,
+   "Fav genre": "Video game music",
+   "Anxiety": 4,
+   "Depression": "2",
+   "Insomnia": 3,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Classical",
+   "Anxiety": 4,
+   "Depression": "6",
+   "Insomnia": 5,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Classical",
+   "Anxiety": 9,
+   "Depression": "6",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Classical",
+   "Anxiety": 6,
+   "Depression": "7",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Folk",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 8,
+   "OCD": 10,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Folk",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 7,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Jazz",
+   "Anxiety": 2,
+   "Depression": "2",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Jazz",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Metal",
+   "Anxiety": 6,
+   "Depression": "4",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Metal",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 7,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Metal",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 2,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "6",
+   "Insomnia": 3,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 4,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "10",
+   "Insomnia": 0,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "6",
+   "Insomnia": 4,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Rock",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 10,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "9",
+   "Insomnia": 10,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Video game music",
+   "Anxiety": 6,
+   "Depression": "4",
+   "Insomnia": 8,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Video game music",
+   "Anxiety": 3,
+   "Depression": "4",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 24,
+   "Fav genre": "Video game music",
+   "Anxiety": 9,
+   "Depression": "5",
+   "Insomnia": 0,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Classical",
+   "Anxiety": 1,
+   "Depression": "1",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "EDM",
+   "Anxiety": 10,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "EDM",
+   "Anxiety": 0,
+   "Depression": "8",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "EDM",
+   "Anxiety": 6,
+   "Depression": "4",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Lofi",
+   "Anxiety": 7,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Metal",
+   "Anxiety": 5,
+   "Depression": "5",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Metal",
+   "Anxiety": 9,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Metal",
+   "Anxiety": 9,
+   "Depression": "9",
+   "Insomnia": 7,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Metal",
+   "Anxiety": 8,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Pop",
+   "Anxiety": 9,
+   "Depression": "9",
+   "Insomnia": 6,
+   "OCD": 9,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Pop",
+   "Anxiety": 10,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "5",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Pop",
+   "Anxiety": 2,
+   "Depression": "0",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 5,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "R&B",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 5,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "6",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "2",
+   "Insomnia": 3,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "9",
+   "Insomnia": 4,
+   "OCD": 10,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 25,
+   "Fav genre": "Video game music",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Country",
+   "Anxiety": 4,
+   "Depression": "1",
+   "Insomnia": 1,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "EDM",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 8,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "EDM",
+   "Anxiety": 2,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 3,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Folk",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Folk",
+   "Anxiety": 4,
+   "Depression": "7",
+   "Insomnia": 6,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Hip hop",
+   "Anxiety": 6,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Hip hop",
+   "Anxiety": 5,
+   "Depression": "10",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Jazz",
+   "Anxiety": 6,
+   "Depression": "8",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Metal",
+   "Anxiety": 10,
+   "Depression": "9",
+   "Insomnia": 8,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Metal",
+   "Anxiety": 1,
+   "Depression": "3",
+   "Insomnia": 10,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Metal",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "4",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 2,
+   "OCD": 10,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "R&B",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "8",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 2,
+   "OCD": 8,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "9",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 6,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "10",
+   "Insomnia": 7,
+   "OCD": 3,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "1",
+   "Insomnia": 0,
+   "OCD": 4,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 26,
+   "Fav genre": "Rock",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Folk",
+   "Anxiety": 0,
+   "Depression": "9",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Hip hop",
+   "Anxiety": 3,
+   "Depression": "4",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Jazz",
+   "Anxiety": 6,
+   "Depression": "10",
+   "Insomnia": 8,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Metal",
+   "Anxiety": 5,
+   "Depression": "6",
+   "Insomnia": 6,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Metal",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Metal",
+   "Anxiety": 1,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Metal",
+   "Anxiety": 4,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Metal",
+   "Anxiety": 2,
+   "Depression": "6",
+   "Insomnia": 9,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Metal",
+   "Anxiety": 2,
+   "Depression": "0",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 3,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Pop",
+   "Anxiety": 8,
+   "Depression": "3",
+   "Insomnia": 3,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Rap",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 6,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "5",
+   "Insomnia": 4,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "10",
+   "Insomnia": 10,
+   "OCD": 8,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 27,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 9,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 28,
+   "Fav genre": "Folk",
+   "Anxiety": 4,
+   "Depression": "7",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 28,
+   "Fav genre": "Hip hop",
+   "Anxiety": 8,
+   "Depression": "5",
+   "Insomnia": 3,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 28,
+   "Fav genre": "Lofi",
+   "Anxiety": 4,
+   "Depression": "8",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 28,
+   "Fav genre": "Metal",
+   "Anxiety": 1,
+   "Depression": "7",
+   "Insomnia": 5,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 28,
+   "Fav genre": "Metal",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 5,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 28,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 28,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "8",
+   "Insomnia": 1,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 28,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "1",
+   "Insomnia": 2,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 28,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "8",
+   "Insomnia": 7,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 28,
+   "Fav genre": "Rock",
+   "Anxiety": 3,
+   "Depression": "1",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 28,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 28,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "6",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 28,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 29,
+   "Fav genre": "Classical",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 29,
+   "Fav genre": "Classical",
+   "Anxiety": 5,
+   "Depression": "6",
+   "Insomnia": 7,
+   "OCD": 7,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 29,
+   "Fav genre": "Country",
+   "Anxiety": 9,
+   "Depression": "3",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 29,
+   "Fav genre": "EDM",
+   "Anxiety": 6,
+   "Depression": "7",
+   "Insomnia": 4,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 29,
+   "Fav genre": "Folk",
+   "Anxiety": 6,
+   "Depression": "5",
+   "Insomnia": 4,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 29,
+   "Fav genre": "Hip hop",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 5,
+   "OCD": 10,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 29,
+   "Fav genre": "Hip hop",
+   "Anxiety": 2,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 29,
+   "Fav genre": "Jazz",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 29,
+   "Fav genre": "Metal",
+   "Anxiety": 9,
+   "Depression": "3",
+   "Insomnia": 7,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 29,
+   "Fav genre": "Pop",
+   "Anxiety": 10,
+   "Depression": "8",
+   "Insomnia": 8,
+   "OCD": 9,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 29,
+   "Fav genre": "R&B",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 9,
+   "OCD": 3,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 29,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 1,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 29,
+   "Fav genre": "Video game music",
+   "Anxiety": 6,
+   "Depression": "6",
+   "Insomnia": 1,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 30,
+   "Fav genre": "Country",
+   "Anxiety": 8,
+   "Depression": "10",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 30,
+   "Fav genre": "EDM",
+   "Anxiety": 7,
+   "Depression": "5",
+   "Insomnia": 7,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 30,
+   "Fav genre": "EDM",
+   "Anxiety": 4,
+   "Depression": "4",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 30,
+   "Fav genre": "Folk",
+   "Anxiety": 9,
+   "Depression": "0",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 30,
+   "Fav genre": "K pop",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 10,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 30,
+   "Fav genre": "Metal",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 10,
+   "OCD": 9,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 30,
+   "Fav genre": "Metal",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 30,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "5",
+   "Insomnia": 8,
+   "OCD": 9,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 30,
+   "Fav genre": "Rock",
+   "Anxiety": 4,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 30,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 6,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 30,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "7",
+   "Insomnia": 8,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 31,
+   "Fav genre": "Classical",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 9,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 31,
+   "Fav genre": "Classical",
+   "Anxiety": 6,
+   "Depression": "8",
+   "Insomnia": 9,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 31,
+   "Fav genre": "Classical",
+   "Anxiety": 5,
+   "Depression": "7",
+   "Insomnia": 5,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 31,
+   "Fav genre": "EDM",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 5,
+   "OCD": 6,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 31,
+   "Fav genre": "Folk",
+   "Anxiety": 4,
+   "Depression": "1",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 31,
+   "Fav genre": "Metal",
+   "Anxiety": 8,
+   "Depression": "6",
+   "Insomnia": 7,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 31,
+   "Fav genre": "Metal",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 6,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 31,
+   "Fav genre": "Metal",
+   "Anxiety": 7,
+   "Depression": "4",
+   "Insomnia": 8,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 31,
+   "Fav genre": "Pop",
+   "Anxiety": 9,
+   "Depression": "0",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 31,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 5,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 31,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "9",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 31,
+   "Fav genre": "Rock",
+   "Anxiety": 3,
+   "Depression": "10",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 31,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "10",
+   "Insomnia": 10,
+   "OCD": 6,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Classical",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 4,
+   "OCD": 4,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Classical",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 5,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "EDM",
+   "Anxiety": 3,
+   "Depression": "6",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Folk",
+   "Anxiety": 6,
+   "Depression": "1",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Hip hop",
+   "Anxiety": 2,
+   "Depression": "0",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Jazz",
+   "Anxiety": 9,
+   "Depression": "4",
+   "Insomnia": 4,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Metal",
+   "Anxiety": 4,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Metal",
+   "Anxiety": 6,
+   "Depression": "8",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Pop",
+   "Anxiety": 10,
+   "Depression": "8",
+   "Insomnia": 2,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "4",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "2",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "6",
+   "Insomnia": 7,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Rock",
+   "Anxiety": 4,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 9,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 32,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 5,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 33,
+   "Fav genre": "Lofi",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 2,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 33,
+   "Fav genre": "Metal",
+   "Anxiety": 5,
+   "Depression": "2",
+   "Insomnia": 5,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 33,
+   "Fav genre": "Metal",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 33,
+   "Fav genre": "Metal",
+   "Anxiety": 4,
+   "Depression": "8",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 33,
+   "Fav genre": "Rock",
+   "Anxiety": 1,
+   "Depression": "0",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 33,
+   "Fav genre": "Rock",
+   "Anxiety": 3,
+   "Depression": "10",
+   "Insomnia": 4,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 33,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "3",
+   "Insomnia": 7,
+   "OCD": 8,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 33,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "9",
+   "Insomnia": 4,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 34,
+   "Fav genre": "Classical",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 34,
+   "Fav genre": "Metal",
+   "Anxiety": 6,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 34,
+   "Fav genre": "Metal",
+   "Anxiety": 3,
+   "Depression": "7",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 34,
+   "Fav genre": "Metal",
+   "Anxiety": 5,
+   "Depression": "9",
+   "Insomnia": 9,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 34,
+   "Fav genre": "Rock",
+   "Anxiety": 1,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 34,
+   "Fav genre": "Rock",
+   "Anxiety": 3,
+   "Depression": "7",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 34,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "9",
+   "Insomnia": 6,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 34,
+   "Fav genre": "Video game music",
+   "Anxiety": 8,
+   "Depression": "10",
+   "Insomnia": 10,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 35,
+   "Fav genre": "Country",
+   "Anxiety": 9,
+   "Depression": "9",
+   "Insomnia": 5,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 35,
+   "Fav genre": "Country",
+   "Anxiety": 1,
+   "Depression": "1",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 35,
+   "Fav genre": "Folk",
+   "Anxiety": 8,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 8,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 35,
+   "Fav genre": "Hip hop",
+   "Anxiety": 7,
+   "Depression": "8",
+   "Insomnia": 6,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 35,
+   "Fav genre": "Pop",
+   "Anxiety": 10,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 35,
+   "Fav genre": "Pop",
+   "Anxiety": 2,
+   "Depression": "1",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 35,
+   "Fav genre": "Rock",
+   "Anxiety": 4,
+   "Depression": "1",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 36,
+   "Fav genre": "Classical",
+   "Anxiety": 8,
+   "Depression": "9",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 36,
+   "Fav genre": "Country",
+   "Anxiety": 1,
+   "Depression": "0",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 36,
+   "Fav genre": "Hip hop",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 2,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 36,
+   "Fav genre": "Metal",
+   "Anxiety": 5,
+   "Depression": "4",
+   "Insomnia": 10,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 36,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 36,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "2",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 36,
+   "Fav genre": "Video game music",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 6,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 37,
+   "Fav genre": "Folk",
+   "Anxiety": 6,
+   "Depression": "4",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 37,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "10",
+   "Insomnia": 6,
+   "OCD": 10,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 37,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "2",
+   "Insomnia": 7,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 37,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "10",
+   "Insomnia": 10,
+   "OCD": 2,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 37,
+   "Fav genre": "Video game music",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 10,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 38,
+   "Fav genre": "Metal",
+   "Anxiety": 1,
+   "Depression": "1",
+   "Insomnia": 5,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 38,
+   "Fav genre": "Metal",
+   "Anxiety": 1,
+   "Depression": "6",
+   "Insomnia": 1,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 38,
+   "Fav genre": "Pop",
+   "Anxiety": 9,
+   "Depression": "4",
+   "Insomnia": 9,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 38,
+   "Fav genre": "Rock",
+   "Anxiety": 4,
+   "Depression": "6",
+   "Insomnia": 6,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 38,
+   "Fav genre": "Rock",
+   "Anxiety": 6,
+   "Depression": "7",
+   "Insomnia": 7,
+   "OCD": 7,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 38,
+   "Fav genre": "Video game music",
+   "Anxiety": 5,
+   "Depression": "5",
+   "Insomnia": 7,
+   "OCD": 1,
+   "Music effects": "Worsen"
+ },
+ {
+   "Age": 39,
+   "Fav genre": "Hip hop",
+   "Anxiety": 6,
+   "Depression": "4",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 40,
+   "Fav genre": "Metal",
+   "Anxiety": 3,
+   "Depression": "6",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 40,
+   "Fav genre": "Metal",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 8,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 40,
+   "Fav genre": "Rock",
+   "Anxiety": 0,
+   "Depression": "4",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 40,
+   "Fav genre": "Rock",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 3,
+   "OCD": 3,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 40,
+   "Fav genre": "Rock",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 41,
+   "Fav genre": "Metal",
+   "Anxiety": 10,
+   "Depression": "7",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 41,
+   "Fav genre": "Metal",
+   "Anxiety": 6,
+   "Depression": "5",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 41,
+   "Fav genre": "Pop",
+   "Anxiety": 9,
+   "Depression": "7",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 41,
+   "Fav genre": "Pop",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 7,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 42,
+   "Fav genre": "Classical",
+   "Anxiety": 7,
+   "Depression": "9",
+   "Insomnia": 4,
+   "OCD": 5,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 42,
+   "Fav genre": "Metal",
+   "Anxiety": 7,
+   "Depression": "8",
+   "Insomnia": 5,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 42,
+   "Fav genre": "Metal",
+   "Anxiety": 8,
+   "Depression": "3",
+   "Insomnia": 6,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 42,
+   "Fav genre": "Rock",
+   "Anxiety": 9,
+   "Depression": "0",
+   "Insomnia": 10,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 42,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "4",
+   "Insomnia": 5,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 42,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 7,
+   "OCD": 6,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 43,
+   "Fav genre": "Country",
+   "Anxiety": 5,
+   "Depression": "1",
+   "Insomnia": 1,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 43,
+   "Fav genre": "Pop",
+   "Anxiety": 3,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 43,
+   "Fav genre": "Rock",
+   "Anxiety": 1,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 43,
+   "Fav genre": "Video game music",
+   "Anxiety": 5,
+   "Depression": "4",
+   "Insomnia": 8,
+   "OCD": 3,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 44,
+   "Fav genre": "Folk",
+   "Anxiety": 9,
+   "Depression": "9",
+   "Insomnia": 8,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 44,
+   "Fav genre": "Folk",
+   "Anxiety": 8,
+   "Depression": "5",
+   "Insomnia": 9,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 44,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 46,
+   "Fav genre": "Rock",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 48,
+   "Fav genre": "Metal",
+   "Anxiety": 10,
+   "Depression": "8",
+   "Insomnia": 0,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 48,
+   "Fav genre": "Rock",
+   "Anxiety": 3,
+   "Depression": "3",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 49,
+   "Fav genre": "Classical",
+   "Anxiety": 4,
+   "Depression": "8",
+   "Insomnia": 9,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 49,
+   "Fav genre": "Classical",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 49,
+   "Fav genre": "EDM",
+   "Anxiety": 8,
+   "Depression": "8",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 49,
+   "Fav genre": "Folk",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 49,
+   "Fav genre": "Pop",
+   "Anxiety": 4,
+   "Depression": "5",
+   "Insomnia": 9,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 50,
+   "Fav genre": "Rock",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 51,
+   "Fav genre": "Rock",
+   "Anxiety": 1,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 53,
+   "Fav genre": "Pop",
+   "Anxiety": 2,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 53,
+   "Fav genre": "Pop",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 53,
+   "Fav genre": "R&B",
+   "Anxiety": 1,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 54,
+   "Fav genre": "Classical",
+   "Anxiety": 2,
+   "Depression": "2",
+   "Insomnia": 3,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 54,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "1",
+   "Insomnia": 2,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 55,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "0",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 56,
+   "Fav genre": "Jazz",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 5,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 56,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "4",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 56,
+   "Fav genre": "Pop",
+   "Anxiety": 6,
+   "Depression": "5",
+   "Insomnia": 10,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 56,
+   "Fav genre": "R&B",
+   "Anxiety": 2,
+   "Depression": "0",
+   "Insomnia": 10,
+   "OCD": 10,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 56,
+   "Fav genre": "Rock",
+   "Anxiety": 3,
+   "Depression": "3",
+   "Insomnia": 1,
+   "OCD": 8,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 57,
+   "Fav genre": "Gospel",
+   "Anxiety": 6,
+   "Depression": "4",
+   "Insomnia": 10,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 57,
+   "Fav genre": "R&B",
+   "Anxiety": 2,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 57,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "2",
+   "Insomnia": 7,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 58,
+   "Fav genre": "Classical",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 58,
+   "Fav genre": "Hip hop",
+   "Anxiety": 4,
+   "Depression": "6",
+   "Insomnia": 8,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 58,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "6",
+   "Insomnia": 3,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 59,
+   "Fav genre": "Pop",
+   "Anxiety": 1,
+   "Depression": "1",
+   "Insomnia": 3,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 59,
+   "Fav genre": "Rock",
+   "Anxiety": 1,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 60,
+   "Fav genre": "Gospel",
+   "Anxiety": 3,
+   "Depression": "0",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 60,
+   "Fav genre": "Gospel",
+   "Anxiety": 6,
+   "Depression": "2",
+   "Insomnia": 8,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 60,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "7",
+   "Insomnia": 2,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 60,
+   "Fav genre": "Rock",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 5,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 60,
+   "Fav genre": "Rock",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 60,
+   "Fav genre": "Rock",
+   "Anxiety": 4,
+   "Depression": "4",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 61,
+   "Fav genre": "Jazz",
+   "Anxiety": 9,
+   "Depression": "7",
+   "Insomnia": 3,
+   "OCD": 3,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 61,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 63,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": ""
+ },
+ {
+   "Age": 63,
+   "Fav genre": "Rock",
+   "Anxiety": 5,
+   "Depression": "4",
+   "Insomnia": 6,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 63,
+   "Fav genre": "Rock",
+   "Anxiety": 2,
+   "Depression": "1",
+   "Insomnia": 2,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 64,
+   "Fav genre": "Classical",
+   "Anxiety": 5,
+   "Depression": "2",
+   "Insomnia": 4,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 64,
+   "Fav genre": "Rock",
+   "Anxiety": 4,
+   "Depression": "4",
+   "Insomnia": 2,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 64,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 9,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 65,
+   "Fav genre": "R&B",
+   "Anxiety": 3,
+   "Depression": "5",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 67,
+   "Fav genre": "Rock",
+   "Anxiety": 8,
+   "Depression": "2",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ },
+ {
+   "Age": 67,
+   "Fav genre": "Rock",
+   "Anxiety": 3,
+   "Depression": "2",
+   "Insomnia": 2,
+   "OCD": 2,
+   "Music effects": ""
+ },
+ {
+   "Age": 67,
+   "Fav genre": "Rock",
+   "Anxiety": 7,
+   "Depression": "6",
+   "Insomnia": 7,
+   "OCD": 4,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 68,
+   "Fav genre": "Gospel",
+   "Anxiety": 10,
+   "Depression": "10",
+   "Insomnia": 10,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 69,
+   "Fav genre": "Classical",
+   "Anxiety": 1,
+   "Depression": "1",
+   "Insomnia": 2,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 70,
+   "Fav genre": "Country",
+   "Anxiety": 8,
+   "Depression": "5",
+   "Insomnia": 6,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 71,
+   "Fav genre": "Gospel",
+   "Anxiety": 1,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 72,
+   "Fav genre": "Rock",
+   "Anxiety": 0,
+   "Depression": "1",
+   "Insomnia": 0,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 73,
+   "Fav genre": "R&B",
+   "Anxiety": 5,
+   "Depression": "4",
+   "Insomnia": 0,
+   "OCD": 1,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 74,
+   "Fav genre": "Pop",
+   "Anxiety": 4,
+   "Depression": "2",
+   "Insomnia": 1,
+   "OCD": 0,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 80,
+   "Fav genre": "Classical",
+   "Anxiety": 7,
+   "Depression": "3",
+   "Insomnia": 9,
+   "OCD": 2,
+   "Music effects": "Improve"
+ },
+ {
+   "Age": 89,
+   "Fav genre": "Rap",
+   "Anxiety": 0,
+   "Depression": "0",
+   "Insomnia": 0,
+   "OCD": 0,
+   "Music effects": "No effect"
+ }
+]
