@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Music Genre and Age Relationship - Improved Treemap</title>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <style>
+    /* Add CSS styling for the treemap */
+    rect {
+      stroke: #fff;
+    }
+    text {
+      font-family: Arial, sans-serif;
+      font-size: 12px;
+      fill: black; /* Set default text color */
+    }
+  </style>
+</head>
+<body>
+  <div id="chart"></div>
+
+  <script>
+    d3.csv('https://raw.githubusercontent.com/Kiny21/DataViz/main/mxmh_survey_results.csv').then(data => {
+      const genres = ['Classical', 'Country', 'EDM', 'Folk', 'Gospel', 'Hip hop', 'Jazz', 'K pop', 'Latin', 'Lofi', 'Metal', 'Pop', 'R&B', 'Rap', 'Rock', 'Video game music']; // Music genres in your dataset
+
+      // Convert age strings to numbers
+      data.forEach(d => {
+        d.age = +d.Age;
+      });
+
+      // Calculate age ranges
+      const minAge = d3.min(data, d => d.age);
+      const maxAge = d3.max(data, d => d.age);
+      const ageRange = maxAge - minAge;
+      const numGroups = 7; // Number of age groups
+
+      const ageGroups = Array.from({ length: numGroups }, (_, i) => ({
+        min: minAge + (i * ageRange) / numGroups,
+        max: minAge + ((i + 1) * ageRange) / numGroups
+      }));
+
+      const colorScale = d3.scaleOrdinal()
+        .domain(genres)
+        .range(d3.schemeSet3); // Color scale for genres
+
+      const genreData = genres.map(genre => {
+        const count = data.filter(d => d.Fav_genre === genre).length;
+        return { name: genre, count, color: colorScale(genre) };
+      });
+
+      const root = {
+        name: 'Genres',
+        children: genreData
+      };
+
+      const treemapLayout = d3.treemap()
+        .size([800, 600])
+        .padding(1)
+        .round(true);
+
+      const treemapRoot = d3.hierarchy(root)
+        .sum(d => d.count);
+
+      treemapLayout(treemapRoot);
+
+      const svg = d3.select('#chart')
+        .append('svg')
+        .attr('width', 800)
+        .attr('height', 600);
+
+      const cell = svg.selectAll('g')
+        .data(treemapRoot.leaves())
+        .enter().append('g')
+        .attr('transform', d => `translate(${d.x0},${d.y0})`);
+
+      cell.append('rect')
+        .attr('width', d => d.x1 - d.x0)
+        .attr('height', d => d.y1 - d.y0)
+        .attr('fill', d => d.data.color)
+        .attr('stroke', '#fff');
+
+      cell.append('text')
+        .attr('x', 5)
+        .attr('y', 15)
+        .text(d => `${d.parent.data.name} - ${d.data.name}: ${d.data.count}`);
+
+    });
+  </script>
+</body>
+</html>

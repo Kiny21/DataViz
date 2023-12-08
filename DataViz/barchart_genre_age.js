@@ -1,0 +1,112 @@
+
+ 
+
+    d3.csv('https://raw.githubusercontent.com/Kiny21/DataViz/main/mxmh_survey_results.csv').then(data => {
+      const genres = ['Classical', 'Country', 'EDM', 'Folk', 'Gospel', 'Hip hop', 'Jazz', 'K pop', 'Latin', 'Lofi', 'Metal', 'Pop', 'R&B', 'Rap', 'Rock', 'Video game music']; // Music genres in your dataset
+
+      // Convert age strings to numbers
+      data.forEach(d => {
+        d.age = +d.Age;
+      });
+
+      // Calculate age ranges
+      const minAge = d3.min(data, d => d.age);
+      const maxAge = d3.max(data, d => d.age);
+      const ageRange = maxAge - minAge;
+      const numGroups = 10; // Number of age groups
+
+      const ageGroups = Array.from({ length: numGroups }, (_, i) => ({
+        min: minAge + (i * ageRange) / numGroups,
+        max: minAge + ((i + 1) * ageRange) / numGroups
+      }));
+
+      const dataset = ageGroups.map(ageGroup => {
+        const ageGroupData = data.filter(d => d.age >= ageGroup.min && d.age <= ageGroup.max);
+        const genreCounts = genres.map(genre => ageGroupData.filter(d => d.Fav_genre === genre).length);
+        return { ageGroup, genreCounts };
+      });
+
+      const width = 800;
+      const height = 600;
+      const margin = { top: 20, right: 30, bottom: 30, left: 60 };
+
+      const svg = d3.select('#chart')
+        .append('svg')
+        .attr('width', width)
+        .attr('height', height);
+
+      const xScale = d3.scaleBand()
+        .domain(dataset.map(d => `${Math.floor(d.ageGroup.min)}-${Math.floor(d.ageGroup.max)}`))
+        .range([margin.left, width - margin.right])
+        .padding(0.1);
+
+      const yScale = d3.scaleLinear()
+        .domain([0, d3.max(dataset, d => d3.max(d.genreCounts))])
+        .nice()
+        .range([height - margin.bottom, margin.top]);
+
+     const colorScale = d3.scaleOrdinal()
+        .domain(genres)
+        .range(d3.quantize(d3.interpolateSinebow, genres.length)); 
+
+      const tooltip2 = d3.select('body')
+        .append('div')
+        .attr('class', 'tooltip2')
+        .style('opacity', 0);
+
+      const rectGroups = svg.selectAll('g')
+        .data(dataset)
+        .enter().append('g')
+        .attr('transform', d => `translate(${xScale(`${Math.floor(d.ageGroup.min)}-${Math.floor(d.ageGroup.max)}`)},0)`);
+
+      rectGroups.selectAll('rect')
+        .data((d, i) => d.genreCounts.map((count, index) => ({ count, index, ageIndex: i })))
+        .enter().append('rect')
+        .attr('x', (d) => xScale.bandwidth() / genres.length * d.index)
+        .attr('y', d => yScale(d.count))
+        .attr('width', xScale.bandwidth() / genres.length)
+        .attr('height', d => yScale(0) - yScale(d.count))
+        .attr('fill', (d) => colorScale(genres[d.index]))
+        // tooltip2 interactions
+        .on('mouseover', function(event, d) {
+          const ageGroup = dataset[d.ageIndex].ageGroup;
+          const genre = genres[d.index];
+          tooltip2.transition().duration(200).style('opacity', 0.9);
+          tooltip2.html(`Age: ${Math.floor(ageGroup.min)}-${Math.floor(ageGroup.max)}, Genre: ${genre}, Count: ${d.count}`)
+            .style('left', `${event.pageX}px`)
+            .style('top', `${event.pageY - 30}px`);
+        })
+        .on('mouseout', function() {
+          tooltip2.transition().duration(500).style('opacity', 0);
+        });
+
+      svg.append('g')
+        .attr('transform', `translate(0,${height - margin.bottom})`)
+        .call(d3.axisBottom(xScale))
+        .selectAll('text')
+        .style('text-anchor', 'end')
+        .attr('transform', 'rotate(-45)');
+
+      svg.append('g')
+        .attr('transform', `translate(${margin.left},0)`)
+        .call(d3.axisLeft(yScale));
+
+      const legend = svg.selectAll('.legend')
+        .data(genres)
+        .enter().append('g')
+        .attr('class', 'legend')
+        .attr('transform', (d, i) => `translate(0,${i * 20})`);
+
+      legend.append('rect')
+        .attr('x', width - 18)
+        .attr('width', 18)
+        .attr('height', 18)
+        .style('fill', (d, i) => colorScale(d));
+
+      legend.append('text')
+        .attr('x', width - 24)
+        .attr('y', 9)
+        .attr('dy', '.35em')
+        .style('text-anchor', 'end')
+        .text(d => d);
+    });

@@ -1,0 +1,245 @@
+<!-- Code from d3-graph-gallery.com -->
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+#container {
+  display: flex; /* Use flexbox to arrange the two inner divs horizontally */
+  justify-content: space-evenly;
+  display:flex;
+  align-items:center;
+  
+}
+#container1 {
+  display: flex; /* Use flexbox to arrange the two inner divs horizontally */
+  justify-content: space-evenly; /* Add space between the inner divs */
+  align-items:center;
+    display:flex;
+}
+
+#my_dataviz2 {
+  width: 40%; /* Adjust the width as needed */
+  padding: 15px; /* Add padding for spacing */
+   display:flex;
+   justify-content: center;
+}
+
+#my_dataviz1 {
+  width: 40%; /* Adjust the width as needed */
+  padding: 5px; /* Add padding for spacing */
+  
+
+}
+#my_dataviz3 {
+  width: 40%; /* Adjust the width as needed */
+  padding: 5px; /* Add padding for spacing */
+  display:flex;
+}
+
+#content_next_to_div1 {
+  width: 50%; /* Adjust the width as needed */
+  padding: 10px; /* Add padding for spacing */
+  display:flex;
+	text-align: center;
+	justify-content: center;
+}
+
+
+
+#header{
+position:center;
+color:#FF69B4;
+font-family:Luminari;
+text-shadow: 2px 2px 2px #ababab; 
+font-size:20pt; 
+text-align:center;
+align-items: center;
+justify-content: center;
+display: flex;
+}
+
+/* Add CSS styling for the treemap */
+    #rect {
+      stroke: #fff;
+    }
+    #text {
+      font-family: Arial, sans-serif;
+      font-size: 10px; /* Adjust the font size as needed */
+      fill: black; /* Set default text color */
+    }
+    .tooltip1 {
+      position: absolute;
+      display: none;
+      padding: 5px;
+      background: #fff;
+      border: 1px solid #000;
+      border-radius: 5px;
+    }
+	  .tooltip2 {
+      position: absolute;
+      opacity: 0;
+      pointer-events: none;
+      background-color: #f4f4f4;
+      border: 1px solid #aaa;
+      border-radius: 4px;
+      padding: 6px;
+      font-size: 12px;
+    }
+
+ .tooltip3 {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    transition: opacity 0.3s;
+  }
+
+  .legend {
+    position: absolute;
+    top: 30px;
+    right: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    margin10-bottom: 5px;
+  }
+
+  .legend-item div {
+    width10: 10px;
+    height10: 10px;
+    margin10-right: 5px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+  }
+
+
+</style>
+
+<body style="background-color:#EEE2E4;margin:0;">
+
+<hr>
+
+<div id="header">
+<img style="width:150px;"  src="sheet.png" alt="sheet" />
+<h1 style="margin-left:30pt;margin-right:30pt;"> Does music help with improving our mental health?</h1>
+<img style="width:150px;"  src="sheet.png" alt="sheet" />
+</div>
+
+<hr>
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v6.js"></script>
+<p style="color: #CD7EB4;text-shadow: 1px 1px 1px #ababab;font-size:13pt;text-align:center">  Music therapy, or MT, is the use of music to improve an individual's stress, mood, 
+and overall mental health. MT is also recognized as an evidence-based practice, 
+using music as a catalyst for "happy" hormones such as oxytocin.</p>
+<p style="color: #CD7EB4;text-shadow: 1px 1px 1px #ababab;font-size:13pt;line-height: 1.4;text-align:center">	The data collection was managed by @catherinerasgaitis via a Google Form.<br>
+	736 participants have finished the survey, and based on their answers, I created the following charts.</p>
+<hr>
+
+<div id="container">
+<!-- Create a div where the graph will take place -->
+<div id="my_dataviz2"></div>
+ <div id="content_next_to_div1">
+<p style="width: 35em;color: #CD7EB4;text-shadow: 1px 1px 1px #ababab;font-size:13pt;line-height: 1.4;text-align:justify">First and foremost, let's delve into the world of streaming services and explore which one reigns supreme in terms of popularity.
+In today's digital age, the trend has shifted towards subscribing to streaming services rather than traditional downloading of individual songs or movies.
+These streaming platforms have revolutionized the way we consume media, offering a myriad of benefits.
+They provide us with seamless access to an extensive library of content, including music, movies, TV shows, and more.
+Not only do they grant us the convenience of instant access, but they also enhance our entertainment experience by offering curated playlists, personalized recommendations, and a host of interactive features.
+In essence, streaming services have transformed the way we enjoy and engage with our favorite tunes and films, making them an integral part of modern entertainment consumption.</p>
+  </div>
+</div>
+<hr>
+
+<p style="margin-left:270px;width:70em;color: #CD7EB4;text-shadow: 1px 1px 1px #ababab;font-size:13pt;text-align:justify">
+The forthcoming pair of charts provides us with valuable insights into the extent of severity associated with mental health issues.
+The initial chart, the circular barchart, illuminates the connection between daily listening hours and the likelihood of experiencing conditions such as anxiety, depression, insomnia, or OCD.
+This chart portrays how these mental health concerns correspond to one's music consumption habits.<br>
+</p>
+<div id="container">
+<div id="my_dataviz1"></div>
+<div id="bar_hour_mental"></div>
+</div>
+
+
+<div style="display: flex;
+  justify-content: center;
+  align-items: center;" id="barchart_grouped"></div>
+
+
+<hr>
+
+<div id="container">
+<p style="width:35em;color: #CD7EB4;text-shadow: 1px 1px 1px #ababab;font-size:13pt;line-height: 1.4;text-align:justify">
+
+On the other hand, the second chart takes a different approach by categorizing participants based on the severity of their individual mental health disorders.
+It effectively condenses and presents data on how many survey participants have encountered varying degrees of severity within these mental illnesses.<br>
+These two visual representations collectively contribute to our understanding of the complex relationship between music consumption, mental health, and the distribution of these conditions among survey respondents.
+</p>
+<div id="my_dataviz3"></div>
+</div>
+
+<hr>
+
+<p style="margin-left:220px;width:70em;color: #CD7EB4;text-shadow: 1px 1px 1px #ababab;font-size:13pt;line-height: 1.4;text-align:center;">
+The subsequent pair of scatterplots visually represents data regarding individuals' ages, their daily hours of listening to music, and additional factors such as their musical inclination, proficiency in foreign languages, and whether they engage in listening to music while working. These scatterplots provide insights into the correlations between age demographics and the varying durations spent on music consumption, shedding light on distinctions among individuals who are musicians or have an affinity for foreign languages, as well as those who incorporate music into their work routines.
+</p>
+<div id="container">
+  <div id="scatterplot2"></div>
+  	<div id="legend6"></div>
+    <div id="scatterplot3"></div>
+	<div id="legend7"></div>
+</div>
+
+<hr>
+
+ <p style="margin-left:220px;width:70em;color: #CD7EB4;text-shadow: 1px 1px 1px #ababab;font-size:13pt;line-height: 1.4;text-align:center;margin-top:20px;">
+      The data illustrates how distinct age groups exhibit unique preferences for music genres, showcasing a diverse spectrum of favored musical styles across different generational categories.
+    </p>
+<div id="container1">
+  <div id="chart"></div>
+   <div id="chart2"></div>
+   <div class="tooltip1"></div>
+</div>
+
+<hr>
+
+ <p style="margin-left:220px;width:70em;color: #CD7EB4;text-shadow: 1px 1px 1px #ababab;font-size:13pt;line-height: 1.4;text-align:center;margin-top:20px;">
+     
+
+
+Finally, I aim to illustrate how an individual's preferred music genre might impact their mental health condition. This exploration will investigate whether someone's favorite music style contributes positively, remains neutral, or potentially worsens their mental health state.
+    </p>
+
+<div id="container1">
+	<div id="music_effects"></div>
+    <div id="music_effects2"></div>
+</div>
+  
+  
+  
+  
+
+
+<script src="histogram.js"></script>
+<script src="circular_barplot.js"></script>
+<script src="heatmap.js"></script>
+<script src="barchart_genre_age.js"></script>
+<script src="composer_scatter_hours.js"></script>
+<script src="foreign_scatter_hours.js"></script>
+<script src="barchart_grouped.js"></script>
+<script src="bar_hour_mental.js"></script>
+<script src="treemap.js"></script>
+<script src="music_effects.js"></script>
+<script src="music_effects2.js"></script>
+</body>

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script src="https://d3js.org/d3.v6.js"></script>
+<div id="my_dataviz"></div>
+<script>
+  // Set the dimensions and margins of the graph
+  const margin = { top: 30, right: 60, bottom: 150, left: 60 };
+  const width = 1000 - margin.left - margin.right; // Increased SVG width
+  const height = 600 - margin.top - margin.bottom;
+
+  // Append the SVG object to the body of the page
+  const svg = d3
+    .select("#my_dataviz")
+    .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", `translate(${margin.left},${margin.top})`);
+
+  d3.csv("https://raw.githubusercontent.com/Kiny21/DataViz/main/mxmh_survey_results.csv").then(function (data) {
+    // Convert the "Hours_per_day" values to numeric
+    data.forEach(function (d) {
+      d.Hours_per_day = +d.Hours_per_day;
+      d.Anxiety = +d.Anxiety;
+      d.Depression = +d.Depression;
+      d.Insomnia = +d.Insomnia;
+      d.OCD = +d.OCD;
+    });
+
+    // Group the data by Hours_per_day
+    const groupedData = d3.groups(data, (d) => d.Hours_per_day);
+
+    // Calculate the mean values for each condition separately
+    const meanValues = groupedData.map((d) => {
+      const anxietyMean = d3.mean(d[1], (d) => d.Anxiety);
+      const depressionMean = d3.mean(d[1], (d) => d.Depression);
+      const insomniaMean = d3.mean(d[1], (d) => d.Insomnia);
+      const OCDMean = d3.mean(d[1], (d) => d.OCD);
+      return Math.max(anxietyMean, depressionMean, insomniaMean, OCDMean);
+    });
+
+    // Find the maximum mean value for setting y-axis domain
+    const maxMeanValue = d3.max(meanValues);
+
+    // Sort the Hours_per_day in ascending order
+    groupedData.sort((a, b) => a[0] - b[0]);
+
+    // X scale
+    const x = d3
+      .scaleBand()
+      .domain(groupedData.map((d) => d[0]))
+      .range([0, width])
+      .padding(0.1);
+
+    // Y scale
+    const y = d3
+      .scaleLinear()
+      .domain([0, maxMeanValue])
+      .nice()
+      .range([height, 0]);
+
+    // Create bars for each condition
+    const conditions = ["Anxiety", "Depression", "Insomnia", "OCD"];
+    const colors = ["#FF69B4", "#DC143C", "#BA55D3", "#BC8F8F"];
+
+    conditions.forEach((condition, index) => {
+      svg.selectAll(".bars")
+        .data(groupedData)
+        .enter()
+        .append("rect")
+        .attr("x", (d) => x(d[0]) + x.bandwidth() / 4 * index)
+        .attr("y", (d) => y(d3.mean(d[1], (d) => d[condition])))
+        .attr("width", x.bandwidth() / 4)
+        .attr("height", (d) => height - y(d3.mean(d[1], (d) => d[condition])))
+        .attr("fill", colors[index]);
+    });
+
+    // Append x-axis
+    svg.append("g")
+      .attr("transform", `translate(0,${height})`)
+      .call(d3.axisBottom(x))
+      .selectAll("text")
+      .style("text-anchor", "end")
+      .attr("transform", "rotate(-45)")
+      .attr("dx", "-0.5em")
+      .attr("dy", "0.5em");
+
+    // Append y-axis
+    svg.append("g")
+      .call(d3.axisLeft(y));
+
+    // Legend
+    const legend = svg.append("g")
+      .attr("class", "legend")
+      .attr("transform", `translate(${width-20 }, ${height - 420})`);
+
+    legend.selectAll("rect")
+      .data(conditions)
+      .enter()
+      .append("rect")
+      .attr("x", 0)
+      .attr("y", (d, i) => i * 20)
+      .attr("width", 15)
+      .attr("height", 15)
+      .attr("fill", (d, i) => colors[i]);
+
+    legend.selectAll("text")
+      .data(conditions)
+      .enter()
+      .append("text")
+      .attr("x", 20)
+      .attr("y", (d, i) => i * 20 + 12)
+      .text((d, i) => conditions[i])
+      .attr("font-size", "12px")
+      .attr("fill", "black");
+  });
+</script>

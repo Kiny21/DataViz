@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v6.js"></script>
+
+<!-- Create a div where the graph and legend will take place -->
+<div id="scatterplot"></div>
+<div id="legend"></div>
+
+<script>
+// set the dimensions and margins of the graph
+var margin = { top: 10, right: 30, bottom: 60, left: 60 },
+    width = 700 - margin.left - margin.right,
+    height = 700 - margin.top - margin.bottom;
+
+// append the svg object to the body of the page
+var svg = d3.select("#scatterplot")
+    .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", "translate(" + (margin.left + 20) + "," + margin.top + ")");
+
+// Read the data
+d3.csv("https://raw.githubusercontent.com/Kiny21/DataViz/main/mxmh_survey_results.csv").then(function (data) {
+
+    // Add X axis
+    var x = d3.scaleLinear()
+        .domain([10, 90])
+        .range([0, width]);
+    svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x));
+
+    // Add Y axis
+    var y = d3.scaleLinear()
+        .domain([0, 24])
+        .range([height, 0]);
+    svg.append("g")
+        .call(d3.axisLeft(y));
+
+    // Add dots based on composer, instrumentalist, or both status
+    svg.append('g')
+        .selectAll("dot")
+        .data(data)
+        .enter()
+        .append("circle")
+        .attr("cx", function (d) { return x(+d.Age); })
+        .attr("cy", function (d) { return y(+d.Hours_per_day); })
+        .attr("r", 3)
+        .style("fill", function (d) {
+            if (d.Composer === 'Yes' && d.Instrumentalist === 'Yes') {
+                return "#FF69B4"; // Composer and instrumentalist
+            } else if (d.Composer === 'Yes') {
+                return "#DC143C"; // Composer only
+            } else if (d.Instrumentalist === 'Yes') {
+                return "#BA55D3"; // Instrumentalist only
+            } else {
+                return "#BC8F8F"; // Neither composer nor instrumentalist
+            }
+        });
+
+    // Add X axis label
+    svg.append("text")
+        .attr("text-anchor", "end")
+        .attr("x", width / 2 + margin.left)
+        .attr("y", height + margin.top + 30)
+        .style('font-weight', 'bold')
+        .text("Age");
+
+    // Add Y axis label
+    svg.append("text")
+        .attr("text-anchor", "end")
+        .attr("transform", "rotate(-90)")
+        .attr("y", -margin.left)
+        .attr("x", -margin.top - height / 2 + 50)
+        .style('font-weight', 'bold')
+        .text("Listened hours per day");
+
+    // Creating Legend
+    var legend = d3.select("#legend")
+        .append("svg")
+        .attr("width", 600)
+        .attr("height",600)
+        .append("g")
+        .attr("transform", "translate(10,10)");
+
+    var legendData = [
+        { label: "Both", color: "#FF69B4" },
+        { label: "Composer", color: "#DC143C" },
+        { label: "Instrumentalist ", color: "#BA55D3" },
+        { label: "Neither ", color: "#BC8F8F" }
+    ];
+
+    legend.selectAll("rect")
+        .data(legendData)
+        .enter()
+        .append("rect")
+        .attr("x", 0)
+        .attr("y", function(d, i) { return i * 20; })
+        .attr("width", 15)
+        .attr("height", 15)
+        .style("fill", function(d) { return d.color; });
+
+    legend.selectAll("text")
+        .data(legendData)
+        .enter()
+        .append("text")
+        .attr("x", 20)
+        .attr("y", function(d, i) { return (i * 20) + 12; })
+        .text(function(d) { return d.label; })
+        .attr("text-anchor", "start")
+        .style("alignment-baseline", "middle");
+});
+</script>

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+  .tooltip3 {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    transition: opacity 0.3s;
+  }
+
+  .legend {
+    position: absolute;
+    top: 30px;
+    right: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    margin10-bottom: 5px;
+  }
+
+  .legend-item div {
+    width10: 10px;
+    height10: 10px;
+    margin10-right: 5px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+  }
+</style>
+<script src="https://d3js.org/d3.v6.js"></script>
+<div id="container">
+  <div id="music_effects2"></div>
+</div>
+<script>
+  // Set the dimensions and margins of the graph
+  const margin10 = { top: 30, right: 60, bottom: 150, left: 60 };
+  const width10 = 800 - margin10.left - margin10.right;
+  const height10 = 600 - margin10.top - margin10.bottom;
+
+  // Append the svg10 object to the body of the page
+  const svg10 = d3
+    .select("#music_effects2")
+    .append("svg")
+    .attr("width", width10 + margin10.left + margin10.right)
+    .attr("height", height10 + margin10.top + margin10.bottom)
+    .append("g")
+    .attr("transform", `translate(${margin10.left},${margin10.top})`);
+
+  const tooltip3 = d3.select("#music_effects2").append("div")
+    .attr("class", "tooltip3")
+    .style("opacity", 0);
+
+  d3.csv("https://raw.githubusercontent.com/Kiny21/DataViz/main/mxmh_survey_results.csv").then(function (data) {
+    // Group the data by Fav_genre
+    const groupedData = d3.groups(data, (d) => d.Fav_genre);
+
+    const allGenresData = [];
+
+    groupedData.forEach((genreData, index) => {
+      const genre = genreData[0];
+      const validClassName = genre.replace(/\s+/g, '_').replace(/[^\w\s]/gi, ''); // Replace spaces and invalid characters
+
+      const musicEffectsData = genreData[1].reduce((acc, curr) => {
+        const musicEffect = curr.Music_effects;
+        if (musicEffect === 'Improve') {
+          acc.Improve++;
+        } else if (musicEffect === 'No effect') {
+          acc['No_effect']++;
+        } else if (musicEffect === 'Worsen') {
+          acc.Worsen++;
+        }
+        return acc;
+      }, { 'Improve': 0, 'No_effect': 0, 'Worsen': 0 });
+
+      const barData = Object.entries(musicEffectsData).map(([key, value]) => ({ genre: validClassName, key, value, index }));
+
+      allGenresData.push(...barData);
+    });
+
+    const genres = groupedData.map(genreData => genreData[0]);
+
+    const colorScale = d3.scaleOrdinal()
+      .domain(genres)
+      .range(d3.quantize(d3.interpolateSinebow, genres.length)); // Color scale using interpolateSinebow
+
+    // X scale
+    const x = d3.scaleBand()
+      .domain(allGenresData.map(d => d.key))
+      .range([0, width10])
+      .padding(0.1);
+
+    // Y scale
+    const y = d3.scaleLinear()
+      .domain([0, d3.max(allGenresData, d => d.value)])
+      .nice()
+      .range([height10, 0]);
+
+    // Create bars
+    svg10.selectAll(".bar")
+      .data(allGenresData)
+      .enter().append("rect")
+      .attr("class", d => `${d.genre}_bar`) // Use valid class name for each genre
+      .attr("x", d => x(d.key) + (x.bandwidth() / groupedData.length) * d.index) // Adjust x-position based on index
+      .attr("width", x.bandwidth() / groupedData.length) // Adjust width10 based on number of genres
+      .attr("y", d => y(d.value))
+      .attr("height", d => height10 - y(d.value))
+      .attr("fill", d => colorScale(groupedData[d.index][0])) // Color bars based on genre
+      // Add tooltip3 on mouseover
+      .on("mouseover", function(event, d) {
+        tooltip3.transition().duration(200).style("opacity", 0.9);
+        tooltip3.html(`Genre: ${groupedData[d.index][0]}<br>Music Effect: ${d.key}<br>Count: ${d.value}`)
+          .style("left", (event.pageX) + "px")
+          .style("top", (event.pageY - 28) + "px");
+      })
+      .on("mouseout", function() {
+        tooltip3.transition().duration(500).style("opacity", 0);
+      });
+
+    // Append x-axis
+    svg10.append("g")
+      .attr("transform", `translate(0,${height10})`)
+      .call(d3.axisBottom(x))
+      .selectAll("text")
+      .style("text-anchor", "end")
+      .attr("transform", "rotate(-45)")
+      .attr("dx", "-0.5em")
+      .attr("dy", "0.5em");
+
+    // Append y-axis
+    svg10.append("g")
+      .call(d3.axisLeft(y));
+
+    // Create legend
+    const legend = svg10.append("g")
+      .attr("class", "legend")
+      .attr("transform", `translate(${width10 - 100}, ${margin10.top-30})`);
+
+    legend.selectAll(".legend-item")
+      .data(genres)
+      .enter().append("g")
+      .attr("class", "legend-item")
+      .attr("transform", (d, i) => `translate(0, ${i * 20})`)
+      .each(function(d) {
+        d3.select(this)
+          .append("circle")
+          .attr("cx", 0)
+          .attr("cy", 0)
+          .attr("r", 5)
+          .style("fill", colorScale(d));
+
+        d3.select(this)
+          .append("text")
+          .attr("x", 10)
+          .attr("y", 5)
+          .text(d);
+      });
+  });
+</script>

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Music Genre and Age Relationship - Improved Treemap</title>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <style>
+    /* Add CSS styling for the treemap */
+    rect {
+      stroke: #fff;
+    }
+    text {
+      font-family: Arial, sans-serif;
+      font-size: 10px; /* Adjust the font size as needed */
+      fill: black; /* Set default text color */
+    }
+    .tooltip {
+      position: absolute;
+      display: none;
+      padding: 5px;
+      background: #fff;
+      border: 1px solid #000;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div id="chart"></div>
+  <div class="tooltip"></div>
+
+  <script>
+    d3.csv('https://raw.githubusercontent.com/Kiny21/DataViz/main/mxmh_survey_results.csv').then(data => {
+      const genres = ['Classical', 'Country', 'EDM', 'Folk', 'Gospel', 'Hip hop', 'Jazz', 'K pop', 'Latin', 'Lofi', 'Metal', 'Pop', 'R&B', 'Rap', 'Rock', 'Video game music']; // Music genres in your dataset
+
+      // Convert age strings to numbers
+      data.forEach(d => {
+        d.age = +d.Age;
+      });
+
+      // Calculate age ranges
+      const minAge = d3.min(data, d => d.age);
+      const maxAge = d3.max(data, d => d.age);
+      const ageRange = maxAge - minAge;
+      const numGroups = 10; // Number of age groups
+
+      const ageGroups = Array.from({ length: numGroups }, (_, i) => ({
+        min: minAge + (i * ageRange) / numGroups,
+        max: minAge + ((i + 1) * ageRange) / numGroups
+      }));
+
+      const colorScale = d3.scaleOrdinal()
+        .domain(genres)
+        .range(d3.quantize(d3.interpolateSinebow, genres.length)); // Color scale using interpolateRainbow
+
+      const genreData = genres.map((genre, index) => {
+        const ageGroupCounts = ageGroups.map(ageGroup => {
+          const count = data.filter(d => d.Fav_genre === genre && d.age >= ageGroup.min && d.age <= ageGroup.max).length;
+          return { name: `${Math.floor(ageGroup.min)}-${Math.floor(ageGroup.max)}`, count, genre };
+        });
+        return { name: genre, children: ageGroupCounts };
+      });
+
+      const root = {
+        name: 'Genres',
+        children: genreData
+      };
+
+      const treemapLayout = d3.treemap()
+        .size([900, 600]) // Adjust the size of the treemap for better readability
+        .padding(3)
+        .round(true);
+
+      const treemapRoot = d3.hierarchy(root)
+        .sum(d => d.count);
+
+      treemapLayout(treemapRoot);
+
+      const svg = d3.select('#chart')
+        .append('svg')
+        .attr('width', 900) // Set the width of the SVG container
+        .attr('height', 600); // Set the height of the SVG container
+
+      const cell = svg.selectAll('g')
+        .data(treemapRoot.leaves())
+        .enter().append('g')
+        .attr('transform', d => `translate(${d.x0},${d.y0})`);
+
+      cell.append('rect')
+        .attr('width', d => d.x1 - d.x0)
+        .attr('height', d => d.y1 - d.y0)
+        .attr('fill', d => colorScale(d.data.genre))
+        .attr('stroke', '#fff')
+        .on('mouseover', function(event, d) {
+          d3.select('.tooltip')
+            .style('left', (event.pageX + 10) + 'px')
+            .style('top', (event.pageY - 20) + 'px')
+            .style('display', 'block')
+            .html(`${d.parent.data.name} - ${d.data.name}: ${d.data.count}`);
+        })
+        .on('mouseout', function() {
+          d3.select('.tooltip').style('display', 'none');
+        });
+
+      ageGroups.slice(0, numGroups - 1).forEach((ageGroup, i) => {
+        svg.append('rect')
+          .attr('x', 0)
+          .attr('y', treemapRoot.each(d => d.data.name.includes(`${Math.floor(ageGroup.min)}-${Math.floor(ageGroup.max)}`) && d.x0 === 0 && d.y0 > 0).y0)
+          .attr('width', 900) // Set the width of the line
+          .attr('height', 2) // Set the height of the line
+          .attr('fill', 'none')
+          .attr('stroke', '#000')
+          .attr('stroke-dasharray', '3,3');
+      });
+
+      cell.append('text')
+        .attr('x', 5)
+        .attr('y', 15);
+
+      // Legend creation
+      const legend = d3.select('#chart')
+        .append('svg')
+        .attr('class', 'legend')
+        .attr('width', 400)
+        .attr('height', 600)
+        .selectAll('g')
+        .data(genres)
+        .enter().append('g')
+        .attr('transform', (d, i) => `translate(0,${i * 20})`);
+
+      legend.append('rect')
+        .attr('x', 0)
+        .attr('y', 0)
+        .attr('width', 18)
+        .attr('height', 18)
+        .style('fill', d => colorScale(d));
+
+      legend.append('text')
+        .attr('x', 24)
+        .attr('y', 9)
+        .attr('dy', '.35em')
+        .text(d => d);
+    });
+  </script>
+</body>
+</html>

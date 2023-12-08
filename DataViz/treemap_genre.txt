@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Music Genre and Age Relationship - Treemap</title>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <style>
+    /* Add CSS styling for the treemap */
+    rect {
+      fill: steelblue;
+      stroke: #fff;
+    }
+    text {
+      fill: white;
+      font-family: Arial, sans-serif;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div id="chart"></div>
+
+  <script>
+    d3.csv('https://raw.githubusercontent.com/Kiny21/DataViz/main/mxmh_survey_results.csv').then(data => {
+      const genres = ['Classical', 'Country','EDM','Folk',  'Gospel','Hip hop', 'Jazz','K pop','Latin','Lofi','Metal','Pop', 'R&B','Rap', 'Rock','Video game music']; // Music genres in your dataset
+
+      const genreCounts = genres.map(genre => {
+        const count = data.filter(d => d.Fav_genre === genre).length;
+        return { genre, count };
+      });
+
+      const root = {
+        name: 'Genres',
+        children: genreCounts.map(d => ({ name: d.genre, value: d.count }))
+      };
+
+      const treemapLayout = d3.treemap()
+        .size([800,600])
+        .padding(1)
+        .round(true);
+
+      const treemapRoot = d3.hierarchy(root)
+        .sum(d => d.value);
+
+      treemapLayout(treemapRoot);
+
+      const svg = d3.select('#chart')
+        .append('svg')
+        .attr('width', 800)
+        .attr('height', 600);
+
+      const cell = svg.selectAll('g')
+        .data(treemapRoot.leaves())
+        .enter().append('g')
+        .attr('transform', d => `translate(${d.x0},${d.y0})`);
+
+      cell.append('rect')
+        .attr('width', d => d.x1 - d.x0)
+        .attr('height', d => d.y1 - d.y0)
+        .attr('fill', 'steelblue')
+        .attr('stroke', '#fff');
+
+      cell.append('text')
+        .attr('x', 5)
+        .attr('y', 15)
+        .text(d => `${d.data.name} - ${d.value}`);
+
+    });
+  </script>
+</body>
+</html>
